@@ -1,0 +1,23 @@
+[
+    {
+      "name": "MIT (Massachusetts Institute of Technology)",
+      "fanArt": "src/img/mit.png",
+      "description": "Massachusetts Institute of Technology (MIT) adalah salah satu universitas teknologi terkemuka di dunia, terletak di Cambridge, Massachusetts, Amerika Serikat. MIT dikenal sebagai pusat inovasi, penelitian, dan pendidikan tinggi yang prestisius. Universitas ini didirikan pada tahun 1861 dan sejak itu telah menjadi pemimpin dalam berbagai bidang ilmu pengetahuan, teknologi, dan ilmu sosial. MIT dianggap sebagai salah satu universitas terbaik di dunia dan sering disebut sebagai 'Institut Teknologi Terbaik.' Sebagai institusi pendidikan yang sangat berprestasi, MIT menawarkan berbagai program studi tingkat sarjana, magister, dan doktor dalam berbagai disiplin ilmu. Fakultas dan mahasiswanya sangat berdedikasi untuk menciptakan solusi inovatif untuk tantangan global, mulai dari teknologi canggih hingga masalah sosial dan lingkungan."
+    },
+    {
+      "name": "Harvard University",
+      "fanArt": "src/img/harvard.png",
+      "description": "Harvard University adalah salah satu universitas terkemuka di dunia, terletak di Cambridge, Massachusetts, Amerika Serikat. Universitas ini didirikan pada tahun 1636 dan telah menjadi lembaga pendidikan paling bergengsi di dunia. Harvard menawarkan berbagai program studi di berbagai disiplin ilmu, termasuk ilmu pengetahuan, humaniora, seni, hukum, bisnis, dan lain-lain. Fakultas dan mahasiswa Harvard telah berkontribusi secara signifikan terhadap penelitian, inovasi, dan pemikiran di berbagai bidang."
+    },
+    {
+      "name": "Stanford University",
+      "fanArt": "src/img/stanford.png",
+      "description": "Stanford University adalah universitas riset swasta terkemuka yang terletak di Stanford, California, Amerika Serikat. Stanford dikenal dengan reputasi akademiknya yang kuat dan kontribusi besar terhadap perkembangan teknologi dan ilmu pengetahuan. Universitas ini didirikan pada tahun 1885 dan telah menjadi rumah bagi berbagai penemuan terkemuka dan perusahaan teknologi terkenal. Stanford menawarkan berbagai program studi dalam ilmu pengetahuan, teknik, bisnis, seni, dan lain-lain."
+    },
+    {
+      "name": "Oxford University",
+      "fanArt": "src/img/oxford.png",
+      "description": "University of Oxford, atau lebih dikenal sebagai Oxford University, adalah salah satu universitas tertua dan paling terkemuka di dunia, terletak di Oxford, Inggris. Universitas ini didirikan pada abad ke-12 dan telah berkontribusi besar terhadap perkembangan ilmu pengetahuan, humaniora, dan seni. Oxford terkenal dengan tutorialnya yang terkenal, di mana mahasiswa bekerja dengan profesor secara individual atau dalam kelompok kecil untuk mendalami studi mereka."
+    }
+  ]
+  

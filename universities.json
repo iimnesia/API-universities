@@ -6,12 +6,12 @@
     },
     {
       "name": "Harvard University",
-      "fanArt": "src/img/harvard.png",
+      "fanArt": "src/img/harvard.jpg",
       "description": "Harvard University adalah salah satu universitas terkemuka di dunia, terletak di Cambridge, Massachusetts, Amerika Serikat. Universitas ini didirikan pada tahun 1636 dan telah menjadi lembaga pendidikan paling bergengsi di dunia. Harvard menawarkan berbagai program studi di berbagai disiplin ilmu, termasuk ilmu pengetahuan, humaniora, seni, hukum, bisnis, dan lain-lain. Fakultas dan mahasiswa Harvard telah berkontribusi secara signifikan terhadap penelitian, inovasi, dan pemikiran di berbagai bidang."
     },
     {
       "name": "Stanford University",
-      "fanArt": "src/img/stanford.png",
+      "fanArt": "src/img/stanford.jpg",
       "description": "Stanford University adalah universitas riset swasta terkemuka yang terletak di Stanford, California, Amerika Serikat. Stanford dikenal dengan reputasi akademiknya yang kuat dan kontribusi besar terhadap perkembangan teknologi dan ilmu pengetahuan. Universitas ini didirikan pada tahun 1885 dan telah menjadi rumah bagi berbagai penemuan terkemuka dan perusahaan teknologi terkenal. Stanford menawarkan berbagai program studi dalam ilmu pengetahuan, teknik, bisnis, seni, dan lain-lain."
     },
     {
